@@ -11,7 +11,11 @@ Built using HUGO
 
 Clone the repo
 
-`git clone https://github.com/techlan23/techlan-london-site.git`
+```bash
+git clone https://github.com/techlan23/techlan-london-site.git
+
+cd techlan-london-site
+```
 
 Clone in the theme submodule
 
@@ -21,8 +25,6 @@ Clone in the theme submodule
 Build the image locally
 
 ```bash
-cd techlan-london-site
-
 docker build . -t techlan-london-site:v0
 ```
 
