@@ -6,11 +6,14 @@ Built using HUGO
 
 ## Prerequisites
 
-* Hugo CLI
 * Docker CLI
 * Kubernetes configured
 
+Clone the repo
 `git clone https://github.com/techlan23/techlan-london-site.git`
+
+Clone in the theme submodule
+`git submodule update --init`
 
 ```bash
 cd techlan-london-site
