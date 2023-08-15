@@ -4,6 +4,12 @@ Built using HUGO
 
 # Installation
 
+## Prerequisites
+
+* Hugo CLI
+* Docker CLI
+* Kubernetes configured
+
 `git clone https://github.com/techlan23/techlan-london-site.git`
 
 ```bash
